@@ -1,0 +1,7 @@
+{
+  "name": "git-status-line",
+  "version": "0.1.0",
+  "description": "Shows the current git branch, ahead/behind counts and uncommitted changes in the status line.",
+  "author": { "name": "modsforClaude.com", "url": "https://modsforclaude.com" },
+  "license": "MIT"
+}
