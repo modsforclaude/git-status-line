@@ -30,6 +30,12 @@ It calls `$.process.run` to run git and `$.ui.status` to set the status line. Si
 
 No network calls, no dependencies, nothing written to disk. Changes you make outside Claude Code (in your editor or another terminal) show up at the next refresh, not immediately.
 
+## Privacy
+
+This mod collects no data. It sends nothing over the network, has no telemetry and writes nothing to disk. What it reads, listed under "What it can see", stays inside your Claude Code session and is gone when the session ends.
+
+Questions or problems: open an issue on GitHub.
+
 ## Loading it
 
 Mods are an early-access Claude Code feature and need a recent version (built and tested on 2.1.286).

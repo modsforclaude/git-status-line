@@ -2,6 +2,14 @@
   "name": "git-status-line",
   "version": "0.1.0",
   "description": "Shows the current git branch, ahead/behind counts and uncommitted changes in the status line.",
-  "author": { "name": "modsforClaude.com", "url": "https://modsforclaude.com" },
-  "license": "MIT"
+  "author": {
+    "name": "modsforClaude.com",
+    "url": "https://modsforclaude.com"
+  },
+  "license": "MIT",
+  "homepage": "https://modsforclaude.com/mods/git-status-line/",
+  "repository": "https://github.com/modsforclaude/git-status-line",
+  "documentationUrl": "https://github.com/modsforclaude/git-status-line#readme",
+  "supportUrl": "https://github.com/modsforclaude/git-status-line/issues",
+  "privacyPolicyUrl": "https://github.com/modsforclaude/git-status-line#privacy"
 }
